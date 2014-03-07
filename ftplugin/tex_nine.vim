@@ -146,7 +146,7 @@ inoremap <buffer> <LocalLeader>Y \Psi
 " Math
 inoremap <buffer> <LocalLeader>½ \sqrt{}<Left>
 inoremap <buffer> <LocalLeader>N \nabla
-inoremap <buffer> <LocalLeader>S \sum_{}^{}<Esc>F}i
+inoremap <buffer> <LocalLeader>S \Sigma
 inoremap <buffer> <LocalLeader>I \int\limits_{}^{}<Esc>F}i
 inoremap <buffer> <LocalLeader>0 \emptyset
 inoremap <buffer> <LocalLeader>6 \partial
